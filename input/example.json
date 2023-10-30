@@ -1,0 +1,29 @@
+{
+  "name": "Some NFT Name",
+  "description": "A great NFT project description",
+  "image": "noImage.png",
+  "edition": 1,
+  "date": 1234567890,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bucket Hat"
+    },
+    {
+      "trait_type": "Face",
+      "value": "laser Eyes"
+    }
+  ]
+}
